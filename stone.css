@@ -14,8 +14,10 @@ h1
 }
 p
 {
-    color:rgb(217, 255, 47);
+    color:indianred;
     text-align:center;
     font-family:'Audiowide', cursive;
     text-decoration-style: dashed;
+    font-size:20px;
+    font-weight: 500;
 }
